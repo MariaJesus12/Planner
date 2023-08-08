@@ -5,6 +5,7 @@
 package Controllers.Task;
 
 import Controllers.Controller;
+import Models.Task.Task;
 import Views.View;
 
 /**
